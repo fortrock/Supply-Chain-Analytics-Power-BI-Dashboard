@@ -42,7 +42,7 @@ This Power BI dashboard provides deep insights into supply chain performance, fo
 - **Average Defect Rate % by Transportation Modes**  like Sea,Air,Rail,Road
 - **Profit Margin and Sum of Defect Rate by Supplier Name**
 - **Supplier Name vs Stock Level** Supplier 1 lead with 1142
-- **Supplier Analysis:** Cost,Manufacturing cost & Sum of Shipping Cost Of each Supplier
+- **Supplier Analysis:** Cost,Manufacturing cost & Sum of shipping sost of each Supplier
 
 ---
 
