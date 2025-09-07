@@ -17,7 +17,6 @@ This Power BI dashboard provides deep insights into supply chain performance, fo
 ## Tabs & Visual Insights
 
 ### 1. Overview
-![Overview Dashboard](screenshots/overview.png)
 
 - **Customer Demographics:** Revenue breakdown by Male, Female, Non-binary, Unknown.
 - **Product Type Revenue:** Skincare, Haircare, and Cosmetics contributions.
@@ -29,12 +28,21 @@ This Power BI dashboard provides deep insights into supply chain performance, fo
 ---
 
 ### 2. Product Insights
-![Product Insights Dashboard](screenshots/product.png)
 
 - **Order Quantities & Stock Levels** for all SKUs.
 - **Lead Time Analysis** per SKU.
 - **Profit Margin by Product Type:** Cosmetics slightly leads at 33.76%.
 - **Price vs Products Sold:** Scatter plot to assess price-performance relationship.
+
+---
+
+### 2. Supplier Insights
+
+- **Total Cost by Transportation Modes** like Sea,Air,Rail,Road
+- **Average Defect Rate % by Transportation Modes**  like Sea,Air,Rail,Road
+- **Profit Margin and Sum of Defect Rate by Supplier Name**
+- **Supplier Name vs Stock Level** Supplier 1 lead with 1142
+- **Supplier Analysis:** Cost,Manufacturing cost & Sum of Shipping Cost Of each Supplier
 
 ---
 
